@@ -2,7 +2,7 @@
 Admin Credentials
 Username: admin_fyp
 Password: FypS@pP@ssw0rd! (Please change this immediately after first login.)
-Access: [Your System URL Here, e.g., https://your-fyp-system.com/admin]
+Access: [Your System URL Here,eman-fyp-supervisor.web.app
 
 Features & Usage
 This system helps manage Final Year Projects (FYP) by facilitating:
